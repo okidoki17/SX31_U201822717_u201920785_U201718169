@@ -1,0 +1,17 @@
+release/arbol.o
+release/comment.o
+release/interaction.o
+release/list.o
+release/login.o
+release/main.o
+release/manejoarchivo.o
+release/muro.o
+release/nodo.o
+release/publication.o
+release/publicationview.o
+release/register.o
+release/user.o
+release/moc_login.o
+release/moc_muro.o
+release/moc_publicationview.o
+release/moc_register.o

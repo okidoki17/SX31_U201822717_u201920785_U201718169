@@ -1,0 +1,17 @@
+debug/arbol.o
+debug/comment.o
+debug/interaction.o
+debug/list.o
+debug/login.o
+debug/main.o
+debug/manejoarchivo.o
+debug/muro.o
+debug/nodo.o
+debug/publication.o
+debug/publicationview.o
+debug/register.o
+debug/user.o
+debug/moc_login.o
+debug/moc_muro.o
+debug/moc_publicationview.o
+debug/moc_register.o
